@@ -1,0 +1,7 @@
+{
+  htdocsDir: htdocs
+  fontsDir: ../noto-jp
+  mbtilesPath: ../koji-produce/tiles.mbtiles
+  port: 3000
+}
+

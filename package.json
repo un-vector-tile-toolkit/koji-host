@@ -1,0 +1,20 @@
+{
+  "name": "koji-host",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:un-vector-tile-toolkit/koji-host",
+  "author": "Hidenori Fujimura <hfu@users.noreply.github.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "@mapbox/mbtiles": "^0.11.0",
+    "config": "^3.2.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "hjson": "^3.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babelify": "^10.0.0"
+  }
+}
