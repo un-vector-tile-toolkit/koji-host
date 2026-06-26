@@ -13,7 +13,7 @@
     "hjson": "^3.1.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.2",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.6.2",
     "babelify": "^10.0.0"
   }
